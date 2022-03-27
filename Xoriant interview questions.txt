@@ -1,0 +1,13 @@
+Xoriant Interview Questions:
+
+1. List out data validation techniques
+2. Assumption of linear regression model 
+3. KNN imputation
+4. why rotation of component in PCA?
+5. what is the role of groupby() function
+6. Decision tree vs random forest
+7. loc vs iloc
+8. handling outliers and filling missing values
+9. what technique is better to go with mean vs median vs mode
+10. Dataframe vs series
+11. give me a solution for a problem where there would be a book name and you need to predict
